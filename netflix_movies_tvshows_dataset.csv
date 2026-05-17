@@ -1,0 +1,401 @@
+Title,Type,Genre,Country,Release_Year,Rating,Duration_Minutes
+Show 1,Movie,Drama,United States,2006,PG,141.0
+Show 2,TV Show,Comedy,India,2014,TV-14,
+Show 3,Movie,Horror,South Korea,2000,PG-13,77.0
+Show 4,Movie,Romance,India,2012,R,133.0
+Show 5,Movie,Action,Japan,2014,PG-13,174.0
+Show 6,TV Show,Action,United States,2019,TV-MA,
+Show 7,Movie,Documentary,United Kingdom,2019,TV-14,161.0
+Show 8,TV Show,Action,South Korea,2004,PG,166.0
+Show 9,Movie,Drama,South Korea,2016,PG,
+Show 10,TV Show,Action,India,2015,TV-14,129.0
+Show 11,TV Show,Comedy,India,2022,R,139.0
+Show 12,Movie,Romance,United Kingdom,2024,TV-14,81.0
+Show 13,TV Show,Horror,South Korea,2004,TV-14,167.0
+Show 14,TV Show,Romance,Japan,2010,R,80.0
+Show 15,Movie,Comedy,South Korea,2012,PG-13,
+Show 16,Movie,Romance,United States,2024,PG,161.0
+Show 17,TV Show,Sci-Fi,South Korea,2016,PG,67.0
+Show 18,Movie,Romance,Canada,2008,R,
+Show 19,Movie,Romance,South Korea,2006,TV-MA,159.0
+Show 20,Movie,Drama,South Korea,2019,TV-14,
+Show 21,Movie,Sci-Fi,India,2020,TV-MA,
+Show 22,Movie,Romance,India,2018,TV-MA,144.0
+Show 23,Movie,Comedy,South Korea,2021,TV-MA,
+Show 24,TV Show,Sci-Fi,India,2008,PG-13,103.0
+Show 25,Movie,Documentary,India,2000,TV-MA,128.0
+Show 26,TV Show,Documentary,Canada,2003,TV-14,
+Show 27,Movie,Documentary,Canada,2023,PG-13,
+Show 28,Movie,Sci-Fi,Japan,2002,TV-14,83.0
+Show 29,Movie,Documentary,India,2024,PG-13,
+Show 30,Movie,Documentary,South Korea,2008,PG,
+Show 31,TV Show,Romance,South Korea,2003,TV-14,
+Show 32,Movie,Comedy,United States,2008,PG-13,157.0
+Show 33,Movie,Drama,South Korea,2019,PG-13,77.0
+Show 34,TV Show,Sci-Fi,Canada,2023,R,
+Show 35,Movie,Action,Japan,2009,R,124.0
+Show 36,Movie,Sci-Fi,India,2000,PG,138.0
+Show 37,Movie,Sci-Fi,Japan,2002,PG-13,
+Show 38,Movie,Romance,United Kingdom,2010,TV-14,
+Show 39,TV Show,Horror,India,2012,TV-MA,
+Show 40,Movie,Documentary,Canada,2004,R,
+Show 41,Movie,Horror,Canada,2021,TV-14,91.0
+Show 42,TV Show,Documentary,South Korea,2019,PG-13,67.0
+Show 43,Movie,Action,South Korea,2014,TV-MA,152.0
+Show 44,TV Show,Horror,Japan,2008,PG-13,
+Show 45,TV Show,Drama,United Kingdom,2000,PG-13,124.0
+Show 46,TV Show,Horror,Japan,2013,PG,136.0
+Show 47,TV Show,Comedy,United Kingdom,2004,R,169.0
+Show 48,Movie,Drama,United States,2016,PG-13,175.0
+Show 49,Movie,Romance,United States,2008,TV-14,
+Show 50,TV Show,Horror,India,2002,TV-14,
+Show 51,Movie,Horror,United Kingdom,2020,TV-MA,
+Show 52,Movie,Drama,Canada,2015,TV-14,
+Show 53,TV Show,Horror,Japan,2018,TV-14,91.0
+Show 54,Movie,Romance,United Kingdom,2019,PG-13,104.0
+Show 55,TV Show,Romance,Japan,2023,TV-14,120.0
+Show 56,TV Show,Drama,Canada,2023,PG,
+Show 57,TV Show,Action,United Kingdom,2020,PG-13,
+Show 58,TV Show,Romance,Canada,2020,R,137.0
+Show 59,TV Show,Sci-Fi,Canada,2000,PG,136.0
+Show 60,Movie,Horror,United Kingdom,2009,TV-MA,
+Show 61,TV Show,Action,United States,2015,PG-13,105.0
+Show 62,TV Show,Romance,United Kingdom,2016,TV-14,95.0
+Show 63,TV Show,Sci-Fi,Canada,2003,TV-14,61.0
+Show 64,Movie,Horror,India,2008,PG-13,122.0
+Show 65,TV Show,Comedy,Japan,2006,TV-MA,
+Show 66,Movie,Action,United States,2002,TV-14,91.0
+Show 67,TV Show,Sci-Fi,Japan,2000,PG-13,77.0
+Show 68,Movie,Horror,United States,2015,TV-14,
+Show 69,Movie,Comedy,United Kingdom,2007,TV-MA,172.0
+Show 70,TV Show,Horror,United States,2019,TV-14,
+Show 71,TV Show,Action,Japan,2004,PG,
+Show 72,TV Show,Romance,Canada,2015,TV-MA,79.0
+Show 73,TV Show,Sci-Fi,Canada,2003,R,129.0
+Show 74,Movie,Horror,India,2019,TV-MA,102.0
+Show 75,Movie,Documentary,India,2005,PG,68.0
+Show 76,TV Show,Documentary,Canada,2016,TV-MA,113.0
+Show 77,TV Show,Drama,India,2021,TV-MA,
+Show 78,Movie,Action,South Korea,2020,R,
+Show 79,Movie,Romance,South Korea,2001,TV-MA,69.0
+Show 80,TV Show,Comedy,Japan,2021,R,169.0
+Show 81,TV Show,Drama,India,2006,PG,
+Show 82,Movie,Comedy,Canada,2005,PG,
+Show 83,TV Show,Romance,Canada,2022,R,84.0
+Show 84,Movie,Comedy,Japan,2022,TV-MA,92.0
+Show 85,TV Show,Drama,Canada,2014,TV-MA,64.0
+Show 86,TV Show,Sci-Fi,Canada,2002,R,141.0
+Show 87,TV Show,Sci-Fi,Canada,2007,TV-MA,67.0
+Show 88,Movie,Documentary,South Korea,2019,R,175.0
+Show 89,TV Show,Sci-Fi,Canada,2003,PG,134.0
+Show 90,Movie,Sci-Fi,India,2020,PG,171.0
+Show 91,TV Show,Romance,United States,2008,TV-14,131.0
+Show 92,TV Show,Documentary,Canada,2004,PG,65.0
+Show 93,TV Show,Sci-Fi,India,2006,PG-13,
+Show 94,TV Show,Action,Japan,2014,PG,61.0
+Show 95,TV Show,Comedy,Japan,2010,R,
+Show 96,Movie,Comedy,United Kingdom,2022,TV-MA,75.0
+Show 97,TV Show,Comedy,Japan,2014,TV-MA,155.0
+Show 98,Movie,Romance,Japan,2011,TV-MA,149.0
+Show 99,Movie,Horror,United Kingdom,2002,PG,146.0
+Show 100,TV Show,Drama,United Kingdom,2001,PG-13,106.0
+Show 101,TV Show,Comedy,South Korea,2008,TV-14,160.0
+Show 102,TV Show,Drama,India,2017,TV-MA,140.0
+Show 103,Movie,Action,Canada,2007,TV-14,60.0
+Show 104,TV Show,Sci-Fi,United Kingdom,2012,TV-14,135.0
+Show 105,TV Show,Horror,United States,2012,R,65.0
+Show 106,TV Show,Horror,United States,2007,TV-MA,117.0
+Show 107,Movie,Comedy,United States,2005,R,
+Show 108,TV Show,Romance,India,2016,TV-MA,
+Show 109,Movie,Sci-Fi,India,2002,TV-MA,144.0
+Show 110,TV Show,Romance,Canada,2011,TV-MA,
+Show 111,Movie,Comedy,South Korea,2008,TV-14,103.0
+Show 112,TV Show,Romance,Canada,2021,TV-MA,
+Show 113,Movie,Horror,South Korea,2002,PG-13,
+Show 114,TV Show,Romance,Japan,2016,TV-MA,
+Show 115,TV Show,Documentary,Japan,2004,TV-MA,
+Show 116,TV Show,Romance,India,2021,PG-13,86.0
+Show 117,TV Show,Horror,Japan,2001,PG-13,
+Show 118,TV Show,Comedy,Japan,2009,TV-14,
+Show 119,TV Show,Comedy,United Kingdom,2004,R,
+Show 120,Movie,Comedy,South Korea,2013,R,135.0
+Show 121,TV Show,Comedy,United Kingdom,2019,PG,
+Show 122,TV Show,Drama,United States,2012,PG,82.0
+Show 123,TV Show,Sci-Fi,Canada,2012,PG,108.0
+Show 124,Movie,Comedy,Canada,2020,R,
+Show 125,TV Show,Documentary,India,2015,TV-MA,79.0
+Show 126,Movie,Sci-Fi,Japan,2023,PG-13,176.0
+Show 127,Movie,Action,Japan,2012,TV-MA,67.0
+Show 128,TV Show,Sci-Fi,India,2016,PG-13,130.0
+Show 129,Movie,Sci-Fi,Japan,2023,TV-MA,61.0
+Show 130,TV Show,Comedy,Canada,2005,TV-14,
+Show 131,TV Show,Drama,Canada,2022,TV-MA,158.0
+Show 132,Movie,Comedy,Japan,2003,PG-13,173.0
+Show 133,TV Show,Drama,India,2020,PG,
+Show 134,TV Show,Sci-Fi,South Korea,2017,TV-MA,
+Show 135,Movie,Documentary,Japan,2017,TV-MA,160.0
+Show 136,Movie,Sci-Fi,United Kingdom,2023,TV-MA,
+Show 137,Movie,Horror,India,2014,PG-13,
+Show 138,TV Show,Horror,United Kingdom,2004,R,166.0
+Show 139,Movie,Comedy,Japan,2014,TV-MA,74.0
+Show 140,Movie,Drama,India,2019,R,102.0
+Show 141,Movie,Horror,Canada,2000,R,76.0
+Show 142,TV Show,Action,South Korea,2008,TV-MA,
+Show 143,Movie,Action,United Kingdom,2011,TV-14,
+Show 144,TV Show,Drama,Canada,2022,PG,177.0
+Show 145,TV Show,Sci-Fi,Japan,2016,PG-13,179.0
+Show 146,TV Show,Action,Canada,2017,PG,
+Show 147,Movie,Romance,United Kingdom,2007,TV-MA,
+Show 148,Movie,Sci-Fi,United States,2007,R,96.0
+Show 149,Movie,Documentary,Japan,2017,TV-MA,128.0
+Show 150,TV Show,Horror,Canada,2020,R,
+Show 151,Movie,Horror,Japan,2000,PG,107.0
+Show 152,Movie,Romance,India,2014,PG,
+Show 153,TV Show,Horror,India,2014,PG,
+Show 154,Movie,Documentary,Canada,2018,TV-MA,166.0
+Show 155,TV Show,Horror,Japan,2005,TV-MA,116.0
+Show 156,Movie,Action,Japan,2019,TV-14,166.0
+Show 157,Movie,Horror,Japan,2004,PG-13,82.0
+Show 158,Movie,Documentary,India,2008,TV-14,91.0
+Show 159,Movie,Action,India,2019,R,125.0
+Show 160,TV Show,Sci-Fi,United Kingdom,2014,R,73.0
+Show 161,TV Show,Comedy,India,2022,TV-MA,96.0
+Show 162,Movie,Horror,United Kingdom,2018,PG-13,138.0
+Show 163,TV Show,Action,Japan,2006,TV-MA,
+Show 164,TV Show,Horror,India,2023,PG,154.0
+Show 165,Movie,Romance,India,2014,PG,124.0
+Show 166,Movie,Drama,India,2017,TV-14,
+Show 167,TV Show,Action,United States,2020,PG,
+Show 168,TV Show,Comedy,Japan,2024,R,
+Show 169,TV Show,Drama,United Kingdom,2019,R,
+Show 170,TV Show,Drama,Japan,2015,TV-MA,
+Show 171,TV Show,Action,United States,2020,PG,
+Show 172,TV Show,Romance,Canada,2018,PG-13,80.0
+Show 173,Movie,Horror,United States,2000,TV-14,
+Show 174,Movie,Drama,South Korea,2001,TV-14,
+Show 175,TV Show,Drama,Japan,2002,TV-14,
+Show 176,Movie,Comedy,United States,2001,TV-14,61.0
+Show 177,TV Show,Romance,United States,2004,PG,119.0
+Show 178,Movie,Drama,South Korea,2004,PG-13,
+Show 179,TV Show,Drama,United Kingdom,2003,PG-13,129.0
+Show 180,TV Show,Drama,Canada,2016,R,127.0
+Show 181,Movie,Horror,South Korea,2009,R,65.0
+Show 182,Movie,Romance,United States,2017,TV-MA,115.0
+Show 183,TV Show,Action,Japan,2002,R,125.0
+Show 184,TV Show,Sci-Fi,Japan,2004,TV-14,
+Show 185,Movie,Horror,Japan,2012,PG,
+Show 186,Movie,Documentary,United States,2011,PG,
+Show 187,Movie,Comedy,Canada,2002,TV-MA,84.0
+Show 188,TV Show,Sci-Fi,United Kingdom,2017,TV-14,
+Show 189,Movie,Sci-Fi,United States,2010,TV-14,153.0
+Show 190,TV Show,Comedy,India,2008,PG,
+Show 191,TV Show,Drama,United Kingdom,2016,TV-14,83.0
+Show 192,TV Show,Sci-Fi,United States,2021,PG,
+Show 193,Movie,Sci-Fi,Canada,2005,TV-MA,92.0
+Show 194,TV Show,Romance,United States,2022,PG-13,159.0
+Show 195,Movie,Horror,United Kingdom,2016,TV-MA,132.0
+Show 196,TV Show,Comedy,South Korea,2006,TV-14,177.0
+Show 197,TV Show,Sci-Fi,Canada,2002,PG,134.0
+Show 198,Movie,Horror,United Kingdom,2017,TV-MA,178.0
+Show 199,TV Show,Romance,United States,2002,R,134.0
+Show 200,Movie,Horror,United Kingdom,2010,R,
+Show 201,TV Show,Horror,India,2022,TV-14,168.0
+Show 202,TV Show,Romance,Canada,2000,PG-13,86.0
+Show 203,Movie,Action,United States,2020,TV-14,
+Show 204,TV Show,Action,Canada,2007,PG,
+Show 205,Movie,Sci-Fi,India,2011,TV-14,174.0
+Show 206,TV Show,Sci-Fi,Japan,2016,R,117.0
+Show 207,Movie,Action,United States,2001,R,82.0
+Show 208,Movie,Comedy,United States,2005,R,
+Show 209,TV Show,Romance,United Kingdom,2012,R,165.0
+Show 210,TV Show,Romance,United States,2020,PG-13,152.0
+Show 211,TV Show,Comedy,Canada,2020,PG,157.0
+Show 212,Movie,Romance,Canada,2000,PG-13,174.0
+Show 213,TV Show,Romance,United States,2018,PG,114.0
+Show 214,TV Show,Documentary,India,2015,PG,
+Show 215,TV Show,Sci-Fi,Japan,2013,TV-MA,
+Show 216,Movie,Action,United Kingdom,2001,PG-13,163.0
+Show 217,TV Show,Horror,United Kingdom,2000,PG,
+Show 218,Movie,Romance,Canada,2022,TV-14,
+Show 219,TV Show,Sci-Fi,United States,2013,PG-13,
+Show 220,Movie,Drama,Canada,2020,PG,169.0
+Show 221,Movie,Drama,United States,2018,TV-14,71.0
+Show 222,Movie,Action,South Korea,2013,TV-14,
+Show 223,Movie,Action,India,2005,PG-13,129.0
+Show 224,Movie,Drama,India,2021,R,
+Show 225,TV Show,Sci-Fi,Japan,2024,TV-14,
+Show 226,TV Show,Documentary,South Korea,2011,PG-13,
+Show 227,Movie,Romance,United States,2013,PG-13,125.0
+Show 228,TV Show,Romance,India,2007,TV-MA,64.0
+Show 229,Movie,Romance,United Kingdom,2005,TV-14,180.0
+Show 230,TV Show,Drama,United States,2018,R,
+Show 231,TV Show,Horror,India,2019,TV-MA,165.0
+Show 232,Movie,Documentary,United States,2000,PG,
+Show 233,TV Show,Horror,India,2023,TV-MA,113.0
+Show 234,TV Show,Action,Japan,2009,PG,
+Show 235,Movie,Action,Japan,2004,TV-14,
+Show 236,Movie,Drama,India,2005,PG,
+Show 237,Movie,Romance,Canada,2022,R,
+Show 238,TV Show,Comedy,Japan,2022,PG-13,
+Show 239,TV Show,Sci-Fi,Japan,2001,TV-MA,
+Show 240,TV Show,Sci-Fi,South Korea,2000,TV-14,127.0
+Show 241,TV Show,Action,South Korea,2006,R,
+Show 242,Movie,Documentary,United States,2022,R,84.0
+Show 243,Movie,Comedy,United States,2014,TV-14,154.0
+Show 244,TV Show,Drama,United States,2003,PG,
+Show 245,TV Show,Drama,India,2012,PG,136.0
+Show 246,TV Show,Drama,South Korea,2003,R,72.0
+Show 247,Movie,Romance,United Kingdom,2013,R,77.0
+Show 248,TV Show,Comedy,South Korea,2011,TV-MA,118.0
+Show 249,Movie,Action,South Korea,2006,PG,165.0
+Show 250,TV Show,Documentary,United Kingdom,2001,PG-13,122.0
+Show 251,Movie,Action,Canada,2021,TV-14,
+Show 252,TV Show,Horror,Canada,2010,TV-14,
+Show 253,TV Show,Comedy,United States,2021,TV-MA,
+Show 254,TV Show,Comedy,India,2019,TV-MA,180.0
+Show 255,Movie,Horror,India,2016,PG-13,
+Show 256,Movie,Documentary,United Kingdom,2017,TV-MA,176.0
+Show 257,TV Show,Sci-Fi,India,2005,PG,
+Show 258,TV Show,Horror,United Kingdom,2007,R,
+Show 259,TV Show,Sci-Fi,South Korea,2002,PG-13,
+Show 260,Movie,Documentary,Canada,2001,PG,114.0
+Show 261,TV Show,Horror,Canada,2017,PG,
+Show 262,Movie,Horror,India,2013,PG,85.0
+Show 263,Movie,Horror,Canada,2009,TV-MA,115.0
+Show 264,Movie,Comedy,South Korea,2024,PG,120.0
+Show 265,TV Show,Documentary,Canada,2023,PG,136.0
+Show 266,Movie,Horror,United States,2017,PG,129.0
+Show 267,TV Show,Romance,United Kingdom,2008,PG-13,72.0
+Show 268,TV Show,Romance,United Kingdom,2019,PG,95.0
+Show 269,TV Show,Romance,Canada,2017,TV-14,141.0
+Show 270,Movie,Comedy,United Kingdom,2022,PG-13,
+Show 271,Movie,Documentary,India,2020,R,107.0
+Show 272,TV Show,Horror,Canada,2009,R,162.0
+Show 273,Movie,Romance,South Korea,2021,R,161.0
+Show 274,Movie,Horror,India,2015,PG-13,130.0
+Show 275,TV Show,Drama,South Korea,2015,PG,168.0
+Show 276,TV Show,Horror,Canada,2019,PG,102.0
+Show 277,TV Show,Documentary,Japan,2017,PG,
+Show 278,TV Show,Action,South Korea,2010,R,143.0
+Show 279,TV Show,Documentary,United States,2010,TV-MA,178.0
+Show 280,TV Show,Sci-Fi,United States,2024,PG,84.0
+Show 281,TV Show,Drama,United States,2006,TV-14,
+Show 282,TV Show,Drama,United Kingdom,2006,TV-MA,
+Show 283,TV Show,Drama,Canada,2014,TV-14,
+Show 284,Movie,Action,Canada,2001,TV-14,
+Show 285,TV Show,Action,United Kingdom,2009,PG-13,175.0
+Show 286,TV Show,Sci-Fi,Japan,2000,R,175.0
+Show 287,TV Show,Horror,United States,2012,TV-14,132.0
+Show 288,TV Show,Comedy,Japan,2000,PG-13,96.0
+Show 289,TV Show,Romance,Canada,2001,PG,139.0
+Show 290,TV Show,Action,United Kingdom,2004,TV-MA,
+Show 291,Movie,Documentary,United States,2003,R,123.0
+Show 292,Movie,Documentary,South Korea,2010,PG-13,
+Show 293,TV Show,Romance,India,2008,PG-13,
+Show 294,TV Show,Drama,Canada,2001,TV-14,
+Show 295,Movie,Romance,India,2021,TV-14,
+Show 296,Movie,Horror,South Korea,2008,PG-13,
+Show 297,TV Show,Comedy,Japan,2012,TV-MA,128.0
+Show 298,TV Show,Comedy,South Korea,2010,R,103.0
+Show 299,Movie,Comedy,India,2010,PG-13,62.0
+Show 300,Movie,Romance,Japan,2008,TV-14,149.0
+Show 301,TV Show,Sci-Fi,United States,2018,PG,
+Show 302,TV Show,Romance,Japan,2015,PG,
+Show 303,TV Show,Horror,United States,2000,TV-MA,175.0
+Show 304,Movie,Comedy,United Kingdom,2001,TV-MA,92.0
+Show 305,TV Show,Action,United States,2021,PG-13,89.0
+Show 306,Movie,Comedy,Japan,2014,R,
+Show 307,TV Show,Sci-Fi,United Kingdom,2018,R,
+Show 308,Movie,Drama,United States,2015,R,
+Show 309,Movie,Horror,Japan,2001,PG,
+Show 310,TV Show,Romance,Canada,2018,PG-13,
+Show 311,Movie,Horror,India,2024,PG,
+Show 312,TV Show,Romance,Japan,2014,TV-MA,
+Show 313,TV Show,Comedy,South Korea,2008,PG,90.0
+Show 314,Movie,Documentary,Canada,2001,PG,161.0
+Show 315,Movie,Sci-Fi,Canada,2001,PG-13,
+Show 316,TV Show,Romance,India,2002,TV-MA,139.0
+Show 317,Movie,Sci-Fi,United States,2001,TV-MA,137.0
+Show 318,Movie,Horror,United States,2005,PG-13,71.0
+Show 319,TV Show,Sci-Fi,United Kingdom,2024,TV-MA,61.0
+Show 320,TV Show,Horror,Canada,2013,R,132.0
+Show 321,TV Show,Horror,United Kingdom,2000,R,
+Show 322,TV Show,Action,India,2023,PG,
+Show 323,TV Show,Romance,Japan,2023,TV-MA,149.0
+Show 324,Movie,Comedy,Japan,2000,R,167.0
+Show 325,TV Show,Horror,United States,2017,TV-MA,
+Show 326,Movie,Horror,Canada,2001,PG-13,75.0
+Show 327,Movie,Drama,South Korea,2006,TV-MA,99.0
+Show 328,TV Show,Romance,United States,2012,TV-14,179.0
+Show 329,TV Show,Action,Japan,2015,PG,
+Show 330,TV Show,Horror,South Korea,2021,PG,141.0
+Show 331,Movie,Drama,Canada,2007,PG,
+Show 332,TV Show,Romance,United Kingdom,2022,PG,71.0
+Show 333,TV Show,Comedy,United States,2007,PG,177.0
+Show 334,TV Show,Horror,Japan,2003,R,
+Show 335,Movie,Documentary,India,2000,TV-MA,
+Show 336,Movie,Sci-Fi,India,2023,R,
+Show 337,Movie,Drama,South Korea,2013,TV-14,
+Show 338,Movie,Comedy,Japan,2000,TV-MA,84.0
+Show 339,Movie,Documentary,United Kingdom,2005,TV-MA,171.0
+Show 340,Movie,Sci-Fi,Canada,2017,TV-14,
+Show 341,TV Show,Action,South Korea,2024,TV-MA,
+Show 342,TV Show,Horror,Canada,2017,PG-13,158.0
+Show 343,TV Show,Documentary,India,2003,TV-MA,
+Show 344,TV Show,Action,Japan,2007,PG-13,91.0
+Show 345,Movie,Comedy,United States,2012,R,160.0
+Show 346,TV Show,Romance,United Kingdom,2005,TV-14,131.0
+Show 347,TV Show,Action,United Kingdom,2006,TV-14,112.0
+Show 348,TV Show,Sci-Fi,India,2019,R,127.0
+Show 349,Movie,Comedy,United States,2014,PG-13,
+Show 350,TV Show,Comedy,Canada,2000,TV-14,78.0
+Show 351,Movie,Drama,United Kingdom,2018,PG,87.0
+Show 352,TV Show,Horror,South Korea,2024,TV-14,
+Show 353,Movie,Horror,United Kingdom,2000,PG-13,67.0
+Show 354,Movie,Documentary,Japan,2002,R,82.0
+Show 355,Movie,Romance,South Korea,2016,PG-13,105.0
+Show 356,TV Show,Comedy,South Korea,2004,PG,67.0
+Show 357,Movie,Drama,United States,2012,TV-MA,
+Show 358,Movie,Horror,United States,2024,PG,161.0
+Show 359,Movie,Documentary,Japan,2002,PG,117.0
+Show 360,Movie,Comedy,Japan,2013,PG-13,
+Show 361,TV Show,Comedy,Japan,2021,TV-14,
+Show 362,TV Show,Romance,India,2002,PG-13,
+Show 363,Movie,Drama,Japan,2010,TV-MA,
+Show 364,TV Show,Documentary,United Kingdom,2009,TV-MA,172.0
+Show 365,Movie,Sci-Fi,India,2022,PG,170.0
+Show 366,Movie,Action,Canada,2002,TV-MA,144.0
+Show 367,Movie,Comedy,Japan,2022,TV-14,
+Show 368,TV Show,Horror,India,2011,PG,
+Show 369,Movie,Horror,Canada,2023,TV-14,
+Show 370,TV Show,Sci-Fi,Canada,2016,PG-13,90.0
+Show 371,TV Show,Comedy,Japan,2009,TV-MA,112.0
+Show 372,Movie,Drama,South Korea,2005,TV-MA,
+Show 373,TV Show,Comedy,India,2022,PG,169.0
+Show 374,Movie,Romance,South Korea,2006,TV-14,96.0
+Show 375,Movie,Sci-Fi,India,2011,TV-MA,157.0
+Show 376,TV Show,Drama,Canada,2000,TV-14,160.0
+Show 377,TV Show,Action,India,2006,TV-14,
+Show 378,TV Show,Action,South Korea,2001,TV-MA,143.0
+Show 379,Movie,Drama,United States,2000,TV-14,157.0
+Show 380,Movie,Horror,United Kingdom,2008,PG,
+Show 381,TV Show,Action,United Kingdom,2011,PG,71.0
+Show 382,TV Show,Sci-Fi,United States,2007,TV-MA,
+Show 383,TV Show,Action,United Kingdom,2021,TV-14,
+Show 384,Movie,Romance,United States,2022,PG-13,105.0
+Show 385,TV Show,Comedy,United Kingdom,2005,TV-14,134.0
+Show 386,TV Show,Sci-Fi,United Kingdom,2003,TV-MA,140.0
+Show 387,TV Show,Horror,United States,2015,R,
+Show 388,Movie,Comedy,India,2024,R,104.0
+Show 389,Movie,Horror,Japan,2007,PG,105.0
+Show 390,Movie,Drama,United Kingdom,2009,PG-13,160.0
+Show 391,Movie,Horror,India,2004,TV-MA,
+Show 392,Movie,Horror,India,2018,TV-14,165.0
+Show 393,Movie,Comedy,South Korea,2003,TV-MA,122.0
+Show 394,TV Show,Sci-Fi,Japan,2006,PG,106.0
+Show 395,Movie,Comedy,India,2024,TV-14,176.0
+Show 396,Movie,Drama,United States,2017,PG,78.0
+Show 397,Movie,Horror,Canada,2024,TV-14,150.0
+Show 398,Movie,Romance,South Korea,2006,R,
+Show 399,Movie,Romance,United States,2007,TV-14,
+Show 400,Movie,Sci-Fi,United Kingdom,2001,TV-MA,
